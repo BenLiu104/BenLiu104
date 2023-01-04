@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Web Developer
 ------------------------
-
-After switching switching career, I have been learning to code for 4 months. By finishing the full stack web developing boot camp of University of Toronto, plus my major in university was Computer science, I acquire most of the web development skills efficiently.
+Full stack web developer leveraging with IT background. Recently earned a certificate in full stack development from the University of Toronto, with newly developed skills in JavaScript, CSS, React.js, responsive web design, RESTful API and GraphQL.
 
 * 🌍  I'm based in Vancouver, BC, Canada
 * 🖥️  See my portfolio at [Here](http://benliu104.github.io/react-portfolio/)
