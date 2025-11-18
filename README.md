@@ -1,15 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ben LIU
 ===============================================================================================================================
 
-Full Stack Web Developer
-------------------------
-Full stack web developer leveraging with IT background. Recently earned a certificate in full stack development from the University of Toronto, with newly developed skills in JavaScript, CSS, React.js, responsive web design, RESTful API and GraphQL.
-
 * 🌍  I'm based in Vancouver, BC, Canada
 * 🖥️  See my portfolio at [Here](http://benliu104.github.io/react-portfolio/)
-* 🧠  I'm learning advanced React.js
+* 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on any frontend & backend web project.
-* ⚡  I was a IT infrastructure engineer.
+* ⚡  I an DevOps engineer.
 
 ### Skills
 
